@@ -46,3 +46,5 @@ exclude:
   - README.md
   - LICENSE
   - CNAME
+
+remote_theme: yaoyao-liu/minimal-light
