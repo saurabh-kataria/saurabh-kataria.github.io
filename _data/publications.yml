@@ -1,7 +1,7 @@
 main:
 
   - title: Time-domain speech super-resolution with GAN based modeling for telephony speaker verification
-    authors: Saurabh Kataria, Jesús Villalba, Laureano Moro-Velázquez, Piotr Żelasko, and Najim Dehak
+    authors: *Saurabh* *Kataria*, Jesús Villalba, Laureano Moro-Velázquez, Piotr Żelasko, and Najim Dehak
     conference_short: Journal pre-print
     conference: Under review.
     pdf: https://arxiv.org/pdf/2209.01702.pdf
@@ -11,7 +11,7 @@ main:
   - title: "Self-FiLM: Conditioning GANs with self-supervised representations for bandwidth extension based speaker recognition"
     authors: Saurabh Kataria, Jesús Villalba, Laureano Moro-Velázquez, Thomas Thebaud, and Najim Dehak
     conference_short: INTERSPEECH
-    conference: INTERSPEECH'22
+    conference: INTERSPEECH 2023
     pdf: https://arxiv.org/pdf/2303.03657
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:cLilKwpvoiEJ:scholar.google.com/&output=citation&scisdr=ChUNMpfUEKWA5lLylYY:ABFrs3wAAAAAZMb0jYY-h4m8ecPtxhzLq6oFu0w&scisig=ABFrs3wAAAAAZMb0jU7of_bSG-Uv9nkxUoDq9Fs&scisf=4&ct=citation&cd=0&hl=en
     image: ./assets/img/pub_imgs/selffilm.png
