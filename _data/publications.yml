@@ -1,7 +1,7 @@
 main:
 
   - title: Time-domain speech super-resolution with GAN based modeling for telephony speaker verification
-    authors: **Saurabh Kataria**, Jesús Villalba, Laureano Moro-Velázquez, Piotr Żelasko, and Najim Dehak
+    authors: Saurabh Kataria, Jesús Villalba, Laureano Moro-Velázquez, Piotr Żelasko, and Najim Dehak
     conference_short: Journal pre-print
     conference: Under review.
     pdf: https://arxiv.org/pdf/2209.01702.pdf
