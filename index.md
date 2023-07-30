@@ -7,6 +7,7 @@ layout: homepage
 <h2 style="margin: 60px 0px 10px;">Biography</h2>
 
 I am currently a PhD candidate in the Department of Electrical and Computer Engineering at [Johns Hopkins University](https://engineering.jhu.edu/ece/). I am fortunate to work with [Prof. Najim Dehak](https://engineering.jhu.edu/faculty/najim-dehak) and [Prof. Jesús Villalba](https://engineering.jhu.edu/faculty/jesus-villalba).
+
 <!-- I received my Ph.D. in Computer Science at [Max Planck Institute for Informatics](https://www.mpi-inf.mpg.de/), where I was fortunate to be advised by [Prof. Bernt Schiele](https://people.mpi-inf.mpg.de/~schiele/) and [Prof. Qianru Sun](https://qianrusun.com/). As part of the [European Laboratory for Learning and Intelligent Systems (ELLIS) Ph.D. Program](https://ellis.eu/phd-postdoc), I was also co-supervised by [Dr. Christian Rupprecht](https://chrirupp.github.io/) and [Prof. Andrea Vedaldi](https://www.robots.ox.ac.uk/~vedaldi/) in the [Visual Geometry Group (VGG)](https://www.robots.ox.ac.uk/~vgg/) at the [University of Oxford](https://www.ox.ac.uk/). From 2018 to 2019, I was a research intern at the [National University of Singapore](https://www.comp.nus.edu.sg/), working with [Prof. Tat-Seng Chua](https://www.chuatatseng.com/) and [Prof. Qianru Sun](https://qianrusun.com/). Prior to this, I obtained my bachelor’s degree from [Tianjin University](http://www.tju.edu.cn/english/index.htm).  -->
 
 <!-- My research lies at the intersection of **computer vision** and **machine learning** -- with a special focus on building intelligent visual systems that are continual and data-efficient. My research interests include **continual learning**, **few-shot learning**, **semi-supervised learning**, **generative models**, **3D geometry models**, and **medical imaging**. -->
@@ -23,4 +24,4 @@ I am currently a PhD candidate in the Department of Electrical and Computer Engi
 
 <!-- {% include_relative _includes/services.md %} -->
 
-{% include_relative _includes/contact.md %}
+<!-- {% include_relative _includes/contact.md %} -->
