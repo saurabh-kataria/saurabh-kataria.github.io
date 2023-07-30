@@ -6,7 +6,7 @@ main:
     conference: Under review.
     pdf: https://arxiv.org/pdf/2209.01702.pdf
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:BaaXrt6S4ScJ:scholar.google.com/&output=citation&scisdr=ChXeZSLrEKWA5lLv_Fg:ABFrs3wAAAAAZMbp5Fj5toxQj1DUYWBahVS5cwU&scisig=ABFrs3wAAAAAZMbp5GnqvkFUh4-7WR5JTa6TVeo&scisf=4&ct=citation&cd=0&hl=en
-    image: ./assets/img/pub_imgs/time_dom.png
+    image: ./assets/img/pub_imgs/timedom.png
 
   # - title: Adding 3D Geometry Control to Diffusion Models
   #   authors: Wufei Ma*, Qihao Liu*, Jiahao Wang*, Angtian Wang, <strong>Yaoyao Liu<sup>#</sup></strong>, Adam Kortylewski, Alan Yuille (<sup>#</sup>Corresponding author)
