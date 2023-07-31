@@ -94,7 +94,7 @@
     </div>
   </div>
 </div> -->
-</li>
+<!-- </li> -->
 
 <li>
 <div class="pub-row">
@@ -113,9 +113,9 @@
       <a href="https://lyy.mpi-inf.mpg.de/mtl/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
       <a href="https://dblp.uni-trier.de/rec/conf/cvpr/SunLCS19.html?view=bibtex" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
 <br>
-</li>
+<!-- </li> -->
 
-</ol>
+<!-- </ol> -->
 </div>
 
 
