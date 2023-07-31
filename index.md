@@ -10,7 +10,7 @@ I am a PhD candidate in the Department of Electrical and Computer Engineering at
 
 During my PhD, we worked on 
 
-I am currently interested in self-supervised learning, multi-modal learning, and human language technologies.
+I am currently interested in deep learning-based self-supervised learning, multi-modal learning, and human language technologies.
 
 <!-- I received my Ph.D. in Computer Science at [Max Planck Institute for Informatics](https://www.mpi-inf.mpg.de/), where I was fortunate to be advised by [Prof. Bernt Schiele](https://people.mpi-inf.mpg.de/~schiele/) and [Prof. Qianru Sun](https://qianrusun.com/). As part of the [European Laboratory for Learning and Intelligent Systems (ELLIS) Ph.D. Program](https://ellis.eu/phd-postdoc), I was also co-supervised by [Dr. Christian Rupprecht](https://chrirupp.github.io/) and [Prof. Andrea Vedaldi](https://www.robots.ox.ac.uk/~vedaldi/) in the [Visual Geometry Group (VGG)](https://www.robots.ox.ac.uk/~vgg/) at the [University of Oxford](https://www.ox.ac.uk/). From 2018 to 2019, I was a research intern at the [National University of Singapore](https://www.comp.nus.edu.sg/), working with [Prof. Tat-Seng Chua](https://www.chuatatseng.com/) and [Prof. Qianru Sun](https://qianrusun.com/). Prior to this, I obtained my bachelor’s degree from [Tianjin University](http://www.tju.edu.cn/english/index.htm).  -->
 
