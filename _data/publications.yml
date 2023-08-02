@@ -16,13 +16,109 @@ main:
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:cLilKwpvoiEJ:scholar.google.com/&output=citation&scisdr=ChUNMpfUEKWA5lLylYY:ABFrs3wAAAAAZMb0jYY-h4m8ecPtxhzLq6oFu0w&scisig=ABFrs3wAAAAAZMb0jU7of_bSG-Uv9nkxUoDq9Fs&scisf=4&ct=citation&cd=0&hl=en
     image: ./assets/img/pub_imgs/selffilm.png
 
-  # - title: "Advest: Adversarial perturbation estimation to classify and detect adversarial attacks against speaker identification"
-  #   authors: Saurabh Kataria, Jesús Villalba, Laureano Moro-Velázquez, Piotr Żelasko, and Najim Dehak
-  #   conference_short: INTERSPEECH
-  #   conference: INTERSPEECH'22
-  #   pdf: https://arxiv.org/pdf/2303.03657
-  #   bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:cLilKwpvoiEJ:scholar.google.com/&output=citation&scisdr=ChUNMpfUEKWA5lLylYY:ABFrs3wAAAAAZMb0jYY-h4m8ecPtxhzLq6oFu0w&scisig=ABFrs3wAAAAAZMb0jU7of_bSG-Uv9nkxUoDq9Fs&scisf=4&ct=citation&cd=0&hl=en
-  #   image: ./assets/img/pub_imgs/selffilm.png
+  - title: "Advest: Adversarial perturbation estimation to classify and detect adversarial attacks against speaker identification"
+    authors: Sonal Joshi, Saurabh Kataria, Jesús Villalba, and Najim Dehak
+    conference_short: INTERSPEECH
+    conference: INTERSPEECH 2022
+    pdf: https://arxiv.org/pdf/2303.03657
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:kW_KFWzOFvkJ:scholar.google.com/&output=citation&scisdr=ClEFv7jvEKWA5l3iMNo:AFWwaeYAAAAAZMnkKNobGh6_91Gnmr4M8nRo3CI&scisig=AFWwaeYAAAAAZMnkKF-YuiV-jqErXZrDhIBvqZI&scisf=4&ct=citation&cd=-1&hl=en
+    image: ./assets/img/pub_imgs/advest.png
+
+  - title: "Joint domain adaptation and speech bandwidth extension using time-domain GANs for speaker verification"
+    authors: Saurabh Kataria, Jesús Villalba, Laureano Moro-Velázquez, and Najim Dehak
+    conference_short: INTERSPEECH
+    conference: INTERSPEECH 2022
+    pdf: https://arxiv.org/pdf/2203.16614
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:3TQL4f27xLwJ:scholar.google.com/&output=citation&scisdr=ClEFv7jvEKWA5l3i8hs:AFWwaeYAAAAAZMnk6hujdkK3rKirX_avAIMkCJs&scisig=AFWwaeYAAAAAZMnk6peeKesqpJLR57dBCc0jTsE&scisf=4&ct=citation&cd=0&hl=en
+    image: ./assets/img/pub_imgs/jointDA.png
+
+  - title: "Defense against Adversarial Attacks on Hybrid Speech Recognition System using Adversarial Fine-tuning with Denoiser"
+    authors: Sonal Joshi, Saurabh Kataria, Yiwen Shao, Piotr Zelasko, Jesús Villalba, Sanjeev Khudanpur, and Najim Dehak
+    conference_short: INTERSPEECH
+    conference: INTERSPEECH 2022
+    pdf: https://arxiv.org/pdf/2204.03851
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:SfZaOTwsVQYJ:scholar.google.com/&output=citation&scisdr=ClEFv7jvEKWA5l3jzq8:AFWwaeYAAAAAZMnl1q_QfKBAwm-uRJn8AnoyP_w&scisig=AFWwaeYAAAAAZMnl1gnhYRqVcqF7voYddNmbo1I&scisf=4&ct=citation&cd=1&hl=en
+    image: ./assets/img/pub_imgs/defense.png
+
+  - title: "Advances in Cross-Lingual and Cross-Source Audio-Visual Speaker Recognition: The JHU-MIT System for NIST SRE21"
+    authors: Jesús Villalba, Bengt J. Borgstrom, Saurabh Kataria, Magdalena Rybicka, Carlos D. Castillo, Jaejin Cho, L. Paola Garcıa-Perera, Pedro A. Torres-Carrasquillo, and Najim Dehak
+    conference_short: Odyssey
+    conference: Odyssey 2022
+    pdf: https://www.researchgate.net/profile/Saurabh-Kataria-5/publication/361590911_Advances_in_Cross-Lingual_and_Cross-Source_Audio-Visual_Speaker_Recognition_The_JHU-MIT_System_for_NIST_SRE21/links/633a7889769781354eb414a5/Advances-in-Cross-Lingual-and-Cross-Source-Audio-Visual-Speaker-Recognition-The-JHU-MIT-System-for-NIST-SRE21.pdf
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:SVPMqR9Te20J:scholar.google.com/&output=citation&scisdr=ClEFv7jvEKWA5l3hNV8:AFWwaeYAAAAAZMnnLV-Y7JrlMLqPMhGOlUvM_T8&scisig=AFWwaeYAAAAAZMnnLVMsal6jzSTSmZ4zubn99f8&scisf=4&ct=citation&cd=0&hl=en
+    image: ./assets/img/pub_imgs/sre21av.png
+
+  - title: "Perceptual loss based speech denoising with an ensemble of audio pattern recognition and self-supervised models"
+    authors: Saurabh Kataria, Jesús Villalba, and Najim Dehak
+    conference_short: ICASSP
+    conference: ICASSP 2021
+    pdf: https://arxiv.org/pdf/2010.11860
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:gg5hhmTd6g4J:scholar.google.com/&output=citation&scisdr=ClEFv7jvEKWA5l3h4sY:AFWwaeYAAAAAZMnn-sZD0ZfRh1dwWzktPMYb160&scisig=AFWwaeYAAAAAZMnn-hI0pb03LQd2RPCRPALV3Jc&scisf=4&ct=citation&cd=0&hl=en
+    image: ./assets/img/pub_imgs/perl.png
+
+  - title: "Deep feature cyclegans: Speaker identity preserving non-parallel microphone-telephone domain adaptation for speaker verification"
+    authors: Saurabh Kataria, Jesús Villalba, Piotr Żelasko, Laureano Moro-Velázquez, and Najim Dehak
+    conference_short: INTERSPEECH
+    conference: INTERSPEECH 2021
+    pdf: https://arxiv.org/pdf/2104.01433
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:wY5kUSv7q8cJ:scholar.google.com/&output=citation&scisdr=ClEFv7jvEKWA5l3uhSU:AFWwaeYAAAAAZMnonSUf4oxJ7i3UtBrNiNxfvNI&scisig=AFWwaeYAAAAAZMnonVDXDuSb9EmdGlaTVrhT-GU&scisf=4&ct=citation&cd=0&hl=en
+    image: ./assets/img/pub_imgs/dfcg.png
+
+  - title: "Multi-Channel Speaker Verification for Single and Multi-talker Speech"
+    authors: Saurabh Kataria, Shi-Xiong Zhang, and Dong Yu
+    conference_short: INTERSPEECH
+    conference: INTERSPEECH 2021
+    pdf: https://arxiv.org/pdf/2010.12692
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:DXxRtIX8ekUJ:scholar.google.com/&output=citation&scisdr=ClEFv7jvEKWA5l3vF-I:AFWwaeYAAAAAZMnpD-KWv_4k_SGduXDuxETJK0s&scisig=AFWwaeYAAAAAZMnpD8FWMs-IqMhfma9go95E1aY&scisf=4&ct=citation&cd=0&hl=en
+    image: ./assets/img/pub_imgs/multi.png
+
+  - title: "Feature enhancement with deep feature losses for speaker verification"
+    authors: Saurabh Kataria, Phani Sankar Nidadavolu, Jesús Villalba, Nanxin Chen, Paola Garcia-Perera, and Najim Dehak
+    conference_short: ICASSP
+    conference: ICASSP 2020
+    pdf: https://arxiv.org/pdf/1910.11905
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:iK_rRm1fic8J:scholar.google.com/&output=citation&scisdr=ClEFv7jvEKWA5l3sF9I:AFWwaeYAAAAAZMnqD9JcToRhKpwPjgfExJQJx9I&scisig=AFWwaeYAAAAAZMnqD7BbNLKgT_HQAqbNjo23WqE&scisf=4&ct=citation&cd=0&hl=en
+    image: ./assets/img/pub_imgs/featenh.png
+
+  - title: "Analysis of deep feature loss based enhancement for speaker verification"
+    authors: Saurabh Kataria, Phani Sankar Nidadavolu, Jesús Villalba, and Najim Dehak
+    conference_short: Odyssey
+    conference: Odyssey 2020
+    pdf: https://arxiv.org/pdf/2002.00139
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:eW7iwuKlQvwJ:scholar.google.com/&output=citation&scisdr=ClEFv7jvEKWA5l3sm-A:AFWwaeYAAAAAZMnqg-DIjcsoFxRSY9FH0_xn8Y8&scisig=AFWwaeYAAAAAZMnqg7DQQ3MXzlN-c1alhkc4f50&scisf=4&ct=citation&cd=0&hl=en
+    image: ./assets/img/pub_imgs/analysis.png
+
+  - title: "Speaker detection in the wild: Lessons learned from JSALT 2019"
+    authors: Phani Sankar Nidadavolu, Saurabh Kataria, Jesús Villalba, and Najim Dehak
+    conference_short: Odyssey
+    conference: Odyssey 2020
+    pdf: https://arxiv.org/pdf/1912.00938
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:x2iQV_vpXLkJ:scholar.google.com/&output=citation&scisdr=ClEFv7jvEKWA5l3t44k:AFWwaeYAAAAAZMnr-4nXsdaaSzG0P5ZajxsqnTk&scisig=AFWwaeYAAAAAZMnr-xPGIEUeT0X5c_an9cVz-Pw&scisf=4&ct=citation&cd=0&hl=en
+    image: ./assets/img/pub_imgs/spkdet.png
+
+  - title: "Low-resource domain adaptation for speaker recognition using cycle-gans"
+    authors: Phani Sankar Nidadavolu, Saurabh Kataria, Jesús Villalba, and Najim Dehak
+    conference_short: ASRU
+    conference: ASRU 2019
+    pdf: https://arxiv.org/pdf/1910.11909
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:feBBdGUYJiAJ:scholar.google.com/&output=citation&scisdr=ClEFv7jvEKWA5l3tPKw:AFWwaeYAAAAAZMnrJKwxi50E9hhkaKlqAfoGscM&scisig=AFWwaeYAAAAAZMnrJLCXbsXfEwXlPOEpKRWuXjQ&scisf=4&ct=citation&cd=0&hl=en
+    image: ./assets/img/pub_imgs/low.png
+
+  - title: "Hearing in a shoe-box: binaural source position and wall absorption estimation using virtually supervised learning"
+    authors: Saurabh Kataria, Clément Gaultier, and Antoine Deleforge
+    conference_short: ICASSP
+    conference: ICASSP 2017
+    pdf: https://arxiv.org/pdf/1609.09747
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:CZX1fX2mB74J:scholar.google.com/&output=citation&scisdr=ClEFv7jvEKWA5l3qRdg:AFWwaeYAAAAAZMnsXdiwzmWY8lVmFG8cvpXphag&scisig=AFWwaeYAAAAAZMnsXZe-TycXSaH6DS7MHP7_BxM&scisf=4&ct=citation&cd=0&hl=en
+    image: ./assets/img/pub_imgs/hearing.png
+
+  - title: "VAST: The virtual acoustic space traveler dataset"
+    authors: Clément Gaultier, Saurabh Kataria, and Antoine Deleforge
+    conference_short: LVA-ICA
+    conference: LVA-ICA 2017
+    pdf: https://arxiv.org/pdf/1612.06287
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:ma_u-TeH8BIJ:scholar.google.com/&output=citation&scisdr=ClEFv7jvEKWA5l3q9Jw:AFWwaeYAAAAAZMns7Jxvj0EqA1HdyR-0tCfJuWM&scisig=AFWwaeYAAAAAZMns7BpU3nN0F5U1yhZAfvVCm0M&scisf=4&ct=citation&cd=0&hl=en
+    image: ./assets/img/pub_imgs/vast.png
 
   # - title: Adding 3D Geometry Control to Diffusion Models
   #   authors: Wufei Ma*, Qihao Liu*, Jiahao Wang*, Angtian Wang, <strong>Yaoyao Liu<sup>#</sup></strong>, Adam Kortylewski, Alan Yuille (<sup>#</sup>Corresponding author)
