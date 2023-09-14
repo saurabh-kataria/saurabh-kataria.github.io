@@ -15,3 +15,19 @@ main:
     pdf: ./assets/pdfs/EE609A_12011_12807637_.pdf
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:FqMiL_a01cUJ:scholar.google.com/&output=citation&scisdr=ClGVeiPJEKWA55dkBdo:AFWwaeYAAAAAZQNiHdo0kKERGYJZLk8HJ8iI3WI&scisig=AFWwaeYAAAAAZQNiHU4WQgKigV2tG5_OBEzVHYw&scisf=4&ct=citation&cd=0&hl=en
     image: ./assets/img/course_projects_imgs/inpainting.png
+
+  - title: "Scene Intensity Estimation and Ranking for Movie Scenes Through Direct Content Analysis"
+    authors: Saurabh Kataria, Abhay Kumar
+    conference_short: 
+    conference: 
+    pdf: ./assets/pdfs/Scene_Intensity_Estimation_and_Ranking_f.pdf
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:2fJFmnnWBkcJ:scholar.google.com/&output=citation&scisdr=ClHWzPZrEKWA55dsy8k:AFWwaeYAAAAAZQNq08lGBg3nncNq7YMKEDoZkUM&scisig=AFWwaeYAAAAAZQNq0zqhlvVeaFcdLz_EtCYkrSU&scisf=4&ct=citation&cd=0&hl=en
+    image: ./assets/img/course_projects_imgs/keypoint.png
+
+  - title: "Image segmentation using Dirichlet process mixture model"
+    authors: Anay Pattanaik, Anupreet Porwal, Saurabh Kataria
+    conference_short: 
+    conference: 
+    pdf: ./assets/pdfs/CS772A_EndTermReport.pdf
+    bibtex: 
+    image: ./assets/img/course_projects_imgs/segmentation.png
