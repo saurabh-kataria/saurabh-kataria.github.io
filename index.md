@@ -24,6 +24,8 @@ I am interested to work more broadly in deep learning (self-supervised learning,
 
 {% include_relative _includes/publications.md %}
 
+{% include_relative _includes/course_projects.md %}
+
 <!-- {% include_relative _includes/teaching.md %} -->
 
 <!-- {% include_relative _includes/talks.md %} -->
