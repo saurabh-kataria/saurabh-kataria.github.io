@@ -1,0 +1,17 @@
+main:
+
+  - title: "Object Recognition and Object Counting using CNNs"
+    authors: L.S. Vishnu Sai Rao, Saurabh Kataria
+    pdf: ./assets/pdfs/cs676a_project_report.pdf
+    conference_short:
+    conference:
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:dWXTAsIKvh8J:scholar.google.com/&output=citation&scisdr=ClGVeiPJEKWA55dmqjc:AFWwaeYAAAAAZQNgsjfbUcNAmEtk8o5YLlRqPaM&scisig=AFWwaeYAAAAAZQNgsl1ZOVc9vN170-5DZKc78_k&scisf=4&ct=citation&cd=-1&hl=en
+    image: ./assets/img/course_projects_imgs/objcount.png
+
+  - title: "Dictionary Learning Based Applications in Image Processing using Convex Optimisation"
+    authors: Abhay Kumar, Saurabh Kataria
+    conference_short: SPIN
+    conference: Int. Conf. on Signal Processing and Integrated Networks (SPIN), Noida, India
+    pdf: ./assets/pdfs/EE609A_12011_12807637_.pdf
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:FqMiL_a01cUJ:scholar.google.com/&output=citation&scisdr=ClGVeiPJEKWA55dkBdo:AFWwaeYAAAAAZQNiHdo0kKERGYJZLk8HJ8iI3WI&scisig=AFWwaeYAAAAAZQNiHU4WQgKigV2tG5_OBEzVHYw&scisf=4&ct=citation&cd=0&hl=en
+    image: ./assets/img/course_projects_imgs/inpainting.png
