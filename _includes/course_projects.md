@@ -1,6 +1,6 @@
 <h1 id="course_projects"></h1>
 
-<h2 style="margin: 60px 0px -15px;">Older course projects <temp style="font-size:15px;">[</temp><a href="https://scholar.google.com/citations?hl=en&user=z7kL9_IAAAAJ" target="_blank" style="font-size:15px;">Google Scholar (all papers)</a><temp style="font-size:15px;">]</temp><temp style="font-size:15px;">[</temp><a href="https://www.researchgate.net/profile/Saurabh-Kataria-5" target="_blank" style="font-size:15px;">ResearchGate</a><temp style="font-size:15px;">]</temp></h2>
+<h2 style="margin: 60px 0px 15px;">Older course projects <temp style="font-size:15px;">[</temp><a href="https://scholar.google.com/citations?hl=en&user=z7kL9_IAAAAJ" target="_blank" style="font-size:15px;">Google Scholar (all papers)</a><temp style="font-size:15px;">]</temp><temp style="font-size:15px;">[</temp><a href="https://www.researchgate.net/profile/Saurabh-Kataria-5" target="_blank" style="font-size:15px;">ResearchGate</a><temp style="font-size:15px;">]</temp></h2>
 
 
 <div class="course_projects">
