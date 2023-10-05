@@ -31,3 +31,59 @@ main:
     pdf: ./assets/pdfs/CS772A_EndTermReport.pdf
     bibtex: 
     image: ./assets/img/course_projects_imgs/segmentation.png
+
+  - title: "Foreground-background classification and ROI detection in institute surveillance footages"
+    authors: Dheeraj Mekala, Keerti Anand, Aakash Ghosh, Saurabh Kataria
+    conference_short: 
+    conference: 
+    pdf: ./assets/pdfs/CS771A_report.pdf
+    bibtex: 
+    image: ./assets/img/course_projects_imgs/fgbg.png
+
+  - title: "Sound source counting using non-parametric statistical methods"
+    authors: 
+    conference_short: 
+    conference: 
+    pdf: 
+    bibtex: 
+    image: 
+
+  - title: "Differential geometry in sensor array processing"
+    authors: 
+    conference_short: 
+    conference: 
+    pdf: 
+    bibtex: 
+    image: 
+
+  - title: "Representation learning for EEG signals"
+    authors: 
+    conference_short: 
+    conference: 
+    pdf: 
+    bibtex: 
+    image: 
+
+  - title: "Model compression for deep neural networks"
+    authors: 
+    conference_short: 
+    conference: 
+    pdf: 
+    bibtex: 
+    image: 
+
+  - title: "End-to-End Speaker Verification system using Transformers"
+    authors: 
+    conference_short: 
+    conference: 
+    pdf: 
+    bibtex: 
+    image: 
+
+  - title: "Lung sound analysis of childrens' speech"
+    authors: 
+    conference_short: 
+    conference: 
+    pdf: 
+    bibtex: 
+    image: 
