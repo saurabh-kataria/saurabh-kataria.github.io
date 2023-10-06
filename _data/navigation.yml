@@ -16,6 +16,9 @@ main:
   - title: "Publications"
     url: ./#publications
 
+  - title: "Course projects"
+    url: ./#course_projects
+
   #- title: "News"
   #  url: ./#news
 
