@@ -41,20 +41,20 @@ main:
     image: ./assets/img/course_projects_imgs/fgbg.png
 
   - title: "Sound source counting using non-parametric statistical methods"
-    authors: 
+    authors: Lakshay Garg, Narsupalli Navin Kumar, Prakhar Kulshreshtha, Saurabh Kataria
     conference_short: 
     conference: 
-    pdf: 
+    pdf: ./assets/pdfs/ee602_report.pdf
     bibtex: 
-    image: 
+    image: ./assets/img/course_projects_imgs/sourcecounting.png
 
   - title: "Differential geometry in sensor array processing"
     authors: 
     conference_short: 
     conference: 
-    pdf: 
+    pdf: ./assets/pdfs/Summer14_final_report.pdf
     bibtex: 
-    image: 
+    image: ./assets/img/course_projects_imgs/diffgeom.png
 
   - title: "Representation learning for EEG signals"
     authors: 
