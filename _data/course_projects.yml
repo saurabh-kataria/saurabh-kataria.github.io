@@ -48,6 +48,14 @@ main:
     bibtex: 
     image: ./assets/img/course_projects_imgs/sourcecounting.png
 
+  - title: "Representation learning for EEG signals"
+    authors: Saurabh Kataria, Sandeep Reddy Kothinti
+    conference_short: 
+    conference: 
+    pdf: ./assets/pdfs/MLSP_project_presentation.pdf
+    bibtex: 
+    image: ./assets/img/course_projects_imgs/eeg.png
+
   - title: "Differential geometry in sensor array processing"
     authors: 
     conference_short: 
@@ -55,14 +63,6 @@ main:
     pdf: ./assets/pdfs/Summer14_final_report.pdf
     bibtex: 
     image: ./assets/img/course_projects_imgs/diffgeom.png
-
-  - title: "Representation learning for EEG signals"
-    authors: 
-    conference_short: 
-    conference: 
-    pdf: 
-    bibtex: 
-    image: 
 
   - title: "Model compression for deep neural networks"
     authors: 
