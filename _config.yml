@@ -1,15 +1,15 @@
 # Basic Information 
 title: Saurabh Kataria
-position: PhD Candidate
-affiliation: Johns Hopkins University
-affiliation_link: https://www.clsp.jhu.edu/
-affiliation_logo: ./assets/img/university-logo-small-horizontal-white-156eae9527.svg
-email: saurabhkataria10@gmail.com, skatari1@jh.edu
+position: Postdoctoral Fellow
+affiliation: Emory University
+affiliation_link: https://www.nursing.emory.edu/initiatives/center-for-data-science
+affiliation_logo: ./assets/img/EU_shield_hz_280.png # ./assets/img/university-logo-small-horizontal-white-156eae9527.svg
+email: saurabhkataria10@gmail.com (preferred), saurabh.kataria@emory.edu
 
 # Search Engine Optimization (SEO)
-keywords: saurabh kataria, kataria saurabh, kataria, saurabh, saurabh kataria johns hopkins, kataria JHU
+keywords: saurabh kataria, kataria saurabh, kataria, saurabh, saurabh kataria johns hopkins, kataria JHU, kataria emory, saurabh emory
 canonical: https://scholar.google.com/citations?hl=en&user=z7kL9_IAAAAJ
-description: Saurabh Kataria is a graduate student at Johns Hopkins University. His research lies in audio processing and deep learning.
+# description: Saurabh Kataria is a graduate student at Johns Hopkins University. His research lies in audio processing and deep learning.
 
 # The option is used to enable the Johns Hopkins template.
 enable_hopkins_logo: true
@@ -23,7 +23,7 @@ google_scholar: https://scholar.google.com/citations?hl=en&user=z7kL9_IAAAAJ
 cv_link: ./assets/img/CV_3_of_Saurabh_Kataria.pdf
 github_link: https://github.com/saurabh-kataria
 linkedin: https://www.linkedin.com/in/saurabh-kataria-855a2a17a
-twitter: https://twitter.com/skataria7777
+twitter: https://twitter.com/drskataria777
 
 # Images 
 avatar: ./assets/img/20221105_152008.jpg
