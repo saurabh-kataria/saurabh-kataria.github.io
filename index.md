@@ -7,8 +7,9 @@ layout: homepage
 
 <h2 style="margin: 60px 0px 10px;">Biography</h2>
 
-<strong style="color:#e74d3c; font-weight:600"><strong style="color:#e74d3c; font-weight:600"> I am now a postdoc fellow at Emory Nursing AI in healthcare space. Website is currently not updated. Stay tuned! </strong></strong>
+<strong style="color:#e74d3c; font-weight:600"><strong style="color:#e74d3c; font-weight:600"> On academic job market 2026. Research interests: Audio Processing, Machine Learning, Foundation Models for time-series. </strong></strong>
 
+I am currently a postdoc fellow at [Emory Nursing Center for Data Science](https://www.nursing.emory.edu/initiatives/center-for-data-science). Website is not updated.
 I was a PhD candidate in the Department of Electrical and Computer Engineering at [Johns Hopkins University](https://engineering.jhu.edu/ece/) working in deep learning based speech enhancement and automatic speaker recognition. I am fortunate to work with [Prof. Najim Dehak](https://engineering.jhu.edu/faculty/najim-dehak) and [Prof. Jesús Villalba](https://engineering.jhu.edu/faculty/jesus-villalba). I am also affiliated with the [Center for Language and Speech Processing](https://www.clsp.jhu.edu/) and [Human Language Technology Center of Excellence](https://hltcoe.jhu.edu/). Previously, I interned at [Tencent America](https://www.tencent.com/en-us/index.html) with [Dr. Shi-Xiong Zhang](https://scholar.google.com/citations?user=4nGncN4AAAAJ&hl=en) at [Dr. Dong Yu](https://scholar.google.com/citations?user=tMY31_gAAAAJ) speech group, [INRIA](https://www.inria.fr/en) with [Dr. Antoine Deleforge](https://members.loria.fr/ADeleforge/) in [Dr. Remi Gribonval](https://people.irisa.fr/Remi.Gribonval/) PANAMA group, and [New York University](https://engineering.nyu.edu/) with [Prof. Siddharth Garg](https://engineering.nyu.edu/faculty/siddharth-garg). I obtained my bachelor's and master's degree from [Indian Institute of Technology (IIT) Kanpur](https://iitk.ac.in/ee/) in Electrical Engineering while working with [Prof. Tanaya Guha](https://www.tanayag.com/) and [Prof. Rajesh Hegde](http://home.iitk.ac.in/~rhegde/). I hold a minor in Artificial Intelligence from [Dept. of Computer Science and Engineering](https://cse.iitk.ac.in/) from IIT Kanpur.
 
 During my PhD, I worked on building speech enhancement solutions with focus on 1) state-of-the-art effectiveness (validated by real & noisy test sets from [NIST Speaker Recognition Evaluation](https://sre.nist.gov/)), 2) speaker-identity preservation, and 3) transfer learning. I also worked on domain adaptation and bandwidth extension (super-resolution) problems for bridging the domain gap between (low-bandwidth) telephone and (high-fidelity) microphone audio. I also collaborated on problems like spoken language recognition, adversarial signals (attack & defense), and automatic speech recognition. In terms of techniques, we relied on Generative Adversarial Networks (GAN), self-supervised models, and perceptual losses.
@@ -23,11 +24,11 @@ I am interested to work more broadly in deep learning (self-supervised learning,
 
 <!-- <strong style="color:#e74d3c; font-weight:600"><strong style="color:#e74d3c; font-weight:600">I am currently on the 2023-2024 academic job market, looking for faculty positions in CS, CSE, ECE, IEOR, etc., related to Artificial Intelligence, Computer Vision, and Machine Learning. Please feel free to contact me if you are interested. I am also happy to give talks on my research in related seminars.</strong></strong> -->
 
-{% include_relative _includes/news.md %}
+<!-- {% include_relative _includes/news.md %} -->
 
-{% include_relative _includes/publications.md %}
+<!-- {% include_relative _includes/publications.md %} -->
 
-{% include_relative _includes/course_projects.md %}
+<!-- {% include_relative _includes/course_projects.md %} -->
 
 <!-- {% include_relative _includes/teaching.md %} -->
 
