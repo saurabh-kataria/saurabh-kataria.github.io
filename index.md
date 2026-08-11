@@ -7,8 +7,8 @@ layout: homepage
 
 <h2 style="margin: 60px 0px 10px;">Biography</h2>
 
-<strong style="color:#e74d3c; font-weight:600"><strong style="color:#e74d3c; font-weight:600">
-On academic job market 2026.
+<!-- <strong style="color:#e74d3c; font-weight:600"><strong style="color:#e74d3c; font-weight:600">
+On academic job market 2026. -->
 
 Research interests: Robust Audio processing, Paralinguistics, Foundation models, Machine Learning
 
