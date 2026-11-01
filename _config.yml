@@ -1,0 +1,51 @@
+# Basic Information 
+title: Saurabh Kataria
+position: Postdoctoral Fellow
+affiliation: Emory University
+affiliation_link: https://www.nursing.emory.edu/initiatives/center-for-data-science
+affiliation_logo: ./assets/img/image2vector.svg # ./assets/img/university-logo-small-horizontal-white-156eae9527.svg
+email: saurabhkataria10@gmail.com (preferred), saurabh.kataria@emory.edu
+
+# Search Engine Optimization (SEO)
+keywords: saurabh kataria, kataria saurabh, kataria, saurabh, saurabh kataria johns hopkins, kataria JHU, kataria emory, saurabh emory
+canonical: https://scholar.google.com/citations?hl=en&user=z7kL9_IAAAAJ
+# description: Saurabh Kataria is a graduate student at Johns Hopkins University. His research lies in audio processing and deep learning.
+
+# The option is used to enable the Johns Hopkins template.
+enable_hopkins_logo: false
+
+# The option is used to show the last update time.
+enable_last_update: false
+
+# Links
+google_scholar: https://scholar.google.com/citations?hl=en&user=z7kL9_IAAAAJ
+# cv_link: https://drive.google.com/file/d/1jK-4USz5BKwty607nCNFhdXirw4450Gk/view?usp=sharing
+cv_link: ./assets/img/CV_3_of_Saurabh_Kataria.pdf
+github_link: https://github.com/saurabh-kataria
+linkedin: https://www.linkedin.com/in/saurabh-kataria-855a2a17a
+# twitter: https://twitter.com/drskataria777
+
+# Images 
+avatar: ./assets/img/20221105_152008.jpg
+favicon: ./assets/img/favicon.png
+favicon_dark: ./assets/img/favicon-dark.png
+
+# Footnotes
+# footnote: Feel free to use my website's source code.
+# footnote_link: https://github.com/yaoyao-liu/minimal-light
+
+# Analytics
+# Please remove the following lines about analytics services if you fork my project. 
+# Otherwise, the analytics information of your website will be recorded to my ClustrMaps accounts.
+# clustrmaps_id: l3lesztPwCz-uXlzFI1Lt9SB3Ctz-pBQuMdYqnD0Ul8
+
+# The following files will be removed from the generated website.
+exclude:
+  - build.sh
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - LICENSE
+  - CNAME
+
+remote_theme: yaoyao-liu/minimal-light

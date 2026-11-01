@@ -1,0 +1,89 @@
+main:
+
+  - title: "Object Recognition and Object Counting using CNNs"
+    authors: L.S. Vishnu Sai Rao, Saurabh Kataria
+    pdf: ./assets/pdfs/cs676a_project_report.pdf
+    conference_short:
+    conference:
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:dWXTAsIKvh8J:scholar.google.com/&output=citation&scisdr=ClGVeiPJEKWA55dmqjc:AFWwaeYAAAAAZQNgsjfbUcNAmEtk8o5YLlRqPaM&scisig=AFWwaeYAAAAAZQNgsl1ZOVc9vN170-5DZKc78_k&scisf=4&ct=citation&cd=-1&hl=en
+    image: ./assets/img/course_projects_imgs/objcount.png
+
+  - title: "Dictionary Learning Based Applications in Image Processing using Convex Optimisation"
+    authors: Abhay Kumar, Saurabh Kataria
+    conference_short: SPIN
+    conference: Int. Conf. on Signal Processing and Integrated Networks (SPIN), Noida, India
+    pdf: ./assets/pdfs/EE609A_12011_12807637_.pdf
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:FqMiL_a01cUJ:scholar.google.com/&output=citation&scisdr=ClGVeiPJEKWA55dkBdo:AFWwaeYAAAAAZQNiHdo0kKERGYJZLk8HJ8iI3WI&scisig=AFWwaeYAAAAAZQNiHU4WQgKigV2tG5_OBEzVHYw&scisf=4&ct=citation&cd=0&hl=en
+    image: ./assets/img/course_projects_imgs/inpainting.png
+
+  - title: "Scene Intensity Estimation and Ranking for Movie Scenes Through Direct Content Analysis"
+    authors: Saurabh Kataria, Abhay Kumar
+    conference_short: 
+    conference: 
+    pdf: ./assets/pdfs/Scene_Intensity_Estimation_and_Ranking_f.pdf
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:2fJFmnnWBkcJ:scholar.google.com/&output=citation&scisdr=ClHWzPZrEKWA55dsy8k:AFWwaeYAAAAAZQNq08lGBg3nncNq7YMKEDoZkUM&scisig=AFWwaeYAAAAAZQNq0zqhlvVeaFcdLz_EtCYkrSU&scisf=4&ct=citation&cd=0&hl=en
+    image: ./assets/img/course_projects_imgs/keypoint.png
+
+  - title: "Image segmentation using Dirichlet process mixture model"
+    authors: Anay Pattanaik, Anupreet Porwal, Saurabh Kataria
+    conference_short: 
+    conference: 
+    pdf: ./assets/pdfs/CS772A_EndTermReport.pdf
+    bibtex: 
+    image: ./assets/img/course_projects_imgs/segmentation.png
+
+  - title: "Foreground-background classification and ROI detection in institute surveillance footages"
+    authors: Dheeraj Mekala, Keerti Anand, Aakash Ghosh, Saurabh Kataria
+    conference_short: 
+    conference: 
+    pdf: ./assets/pdfs/CS771A_report.pdf
+    bibtex: 
+    image: ./assets/img/course_projects_imgs/fgbg.png
+
+  - title: "Sound source counting using non-parametric statistical methods"
+    authors: Lakshay Garg, Narsupalli Navin Kumar, Prakhar Kulshreshtha, Saurabh Kataria
+    conference_short: 
+    conference: 
+    pdf: ./assets/pdfs/ee602_report.pdf
+    bibtex: 
+    image: ./assets/img/course_projects_imgs/sourcecounting.png
+
+  - title: "Representation learning for EEG signals"
+    authors: Saurabh Kataria, Sandeep Reddy Kothinti
+    conference_short: 
+    conference: 
+    pdf: ./assets/pdfs/MLSP_project_presentation.pdf
+    bibtex: 
+    image: ./assets/img/course_projects_imgs/eeg.png
+
+  - title: "Differential geometry in sensor array processing"
+    authors: 
+    conference_short: 
+    conference: 
+    pdf: ./assets/pdfs/Summer14_final_report.pdf
+    bibtex: 
+    image: ./assets/img/course_projects_imgs/diffgeom.png
+
+  - title: "Model compression for deep neural networks"
+    authors: 
+    conference_short: 
+    conference: 
+    pdf: 
+    bibtex: 
+    image: 
+
+  - title: "End-to-End Speaker Verification system using Transformers"
+    authors: 
+    conference_short: 
+    conference: 
+    pdf: 
+    bibtex: 
+    image: 
+
+  - title: "Lung sound analysis of childrens' speech"
+    authors: 
+    conference_short: 
+    conference: 
+    pdf: 
+    bibtex: 
+    image: 
